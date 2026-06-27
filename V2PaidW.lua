@@ -12,7 +12,7 @@ local whitelist = {
     "PRIMOBNS06",
     "RavenOfficial09",
     "youdeadim",
-    "StingLikeAHoly_John",
+    "christiangabato_123",
 }
 
 local player = game.Players.LocalPlayer
